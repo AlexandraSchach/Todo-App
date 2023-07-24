@@ -8,7 +8,7 @@
 
 # Description:
  
- This Todo List WebApp is designed to help you organize your tasks efficiently. The application is in German, allowing you to easily manage your Aufgaben (tasks) with ease. The intuitive interface and simple functionality make task management a breeze.
+ This Todo List WebApp is designed to help you organize your tasks efficiently. The application is in German, allowing you to easily manage your Tasks with ease. The intuitive interface and simple functionality make task management a breeze.
 
 # How to Use:
 
