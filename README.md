@@ -12,13 +12,13 @@
 
 # How to Use:
 
-    **Add a Task:** To add a new task, simply type your task in the input field and click the "Plus" button or press "Enter" on your keyboard.
+    *Add a Task:* To add a new task, simply type your task in the input field and click the "Plus" button or press "Enter" on your keyboard.
 
-    **Delete a Task:** Have a completed task or want to remove one? Click on the "Mülleimer" (Trash Can) icon next to the task to delete it.
+    *Delete a Task:* Have a completed task or want to remove one? Click on the "Mülleimer" (Trash Can) icon next to the task to delete it.
 
-    **Edit a Task:** Need to make changes to a task? Click on the "Stift" (Pen) icon to edit the task. You can modify the content as needed.
+    *Edit a Task:* Need to make changes to a task? Click on the "Stift" (Pen) icon to edit the task. You can modify the content as needed.
 
-    **Mark a Task as Completed:** You can quickly mark a task as completed by clicking directly on the task. It will be crossed out to indicate its completion.
+    *Mark a Task as Completed:* You can quickly mark a task as completed by clicking directly on the task. It will be crossed out to indicate its completion.
 
 This Todo List WebApp is designed to streamline your task management process and improve your productivity. Enjoy staying organized and focused on your daily tasks with this user-friendly tool!
 
