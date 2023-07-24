@@ -2,9 +2,9 @@
 
 # Screenshot
 
-![Todo WebApp 1](/home/alexis/Schreibtisch/react_projekte/todo-list/img/todo1.png)
-![Todo WebApp 2](/home/alexis/Schreibtisch/react_projekte/todo-list/img/todo2.png)
-![Todo WebApp 3](/home/alexis/Schreibtisch/react_projekte/todo-list/img/todo3.png)
+![Todo WebApp 1](https://github.com/AlexandraSchach/Todo-App/blob/main/img/todo1.png)
+![Todo WebApp 2](https://github.com/AlexandraSchach/Todo-App/blob/main/img/todo2.png)
+![Todo WebApp 3](https://github.com/AlexandraSchach/Todo-App/blob/main/img/todo3.png)
 
 # Description:
  
