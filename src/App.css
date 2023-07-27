@@ -3,7 +3,7 @@
   font-family: 'IBM Plex Sans Condensed';
   font-style: normal;
   font-weight: 400;
-  src: url('/home/alexis/Schreibtisch/react_projekte/todo-list/fonts/ibm-plex-sans-condensed-v14-latin-regular.woff2') format('woff2');
+  src: url('https://github.com/AlexandraSchach/Todo-App/blob/main/fonts/ibm-plex-sans-condensed-v14-latin-regular.woff2') format('woff2');
 }
 
 * {
